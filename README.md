@@ -5,3 +5,4 @@ Centered Giordano's Pizza
 Enlarged the font
 Added order online in Header
 Added menu in Header
+Added location in Header
