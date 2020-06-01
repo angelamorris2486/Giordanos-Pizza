@@ -7,6 +7,6 @@ Enlarged the font;
 Order online in Header;
 Menu in Header;
 Location in Header;
-First full page image of pizza;
+First full page image of pizza (order online);
 Second full page image of pizza (menu);
 Third full page image of pizza (location);
