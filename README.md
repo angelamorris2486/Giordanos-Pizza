@@ -9,4 +9,4 @@ Menu in Header;
 Location in Header;
 First full page image of pizza;
 Second full page image of pizza (menu);
-Third full page image of pizza ;
+Third full page image of pizza (location);
