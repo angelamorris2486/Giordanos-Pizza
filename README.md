@@ -11,7 +11,9 @@ Found images for the home page;
 Found a grid for the home page;
 Got assistance from the tutor with the home page;
 created a form from w3schools and html;
-Menu in Header;
+created a menu;
+got ideas from w3shcools;
+
 Header;
 First image of pizza (Home);
 Second full two images to order (order online);
