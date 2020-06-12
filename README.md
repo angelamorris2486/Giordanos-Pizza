@@ -17,3 +17,4 @@ created an about page;
 got ideas from w3 schools;
 had to created my css page for my project;
 the css page for my project was kind of difficult so I had to get one one one assistance;
+ideas for future improvement is to code at least one hour a day outside of class  because keeping up with the class is difficult;
