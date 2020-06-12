@@ -15,3 +15,4 @@ created a menu;
 got ideas from w3shcools;
 created an about page;
 got ideas from w3 schools;
+had to created my css page for my project;
