@@ -1,6 +1,7 @@
 # Giordanos-Pizza
 Project One
 Student at NEIU; 
+vistited various web sites to get ideas for pizza advertisements;
 First website with primarily HTML and CSS, entitled, Chicago Style Pizza;
 Centered Chicago Style Pizza;
 Enlarged the font;
