@@ -10,7 +10,7 @@ Created a navigation bar with home; order online; menu; about;
 Found images for the home page;
 Found a grid for the home page;
 Got assistance from the tutor with the home page;
-Order online in Header and Form (with first and last name; email address);
+created a form from w3schools and html;
 Menu in Header;
 Header;
 First image of pizza (Home);
