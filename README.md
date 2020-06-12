@@ -6,6 +6,7 @@ Centered Chicago Style Pizza;
 Enlarged the font;
 Created a navigation bar with home; order online; menu; about;
 Found images for the home page;
+Found a grid for the home page;
 Order online in Header and Form (with first and last name; email address);
 Menu in Header;
 Header;
