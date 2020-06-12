@@ -13,8 +13,5 @@ Got assistance from the tutor with the home page;
 created a form from w3schools and html;
 created a menu;
 got ideas from w3shcools;
-
-Header;
-First image of pizza (Home);
-Second full two images to order (order online);
-Third full images for the menu (menu);
+created an about page;
+got ideas from w3 schools;
