@@ -18,3 +18,6 @@ got ideas from w3 schools;
 had to created my css page for my project;
 the css page for my project was kind of difficult so I had to get one one one assistance;
 ideas for future improvement is to code at least one hour a day outside of class  because keeping up with the class is difficult;
+another idea for future improvement is to make sure that I follow project guidelines;
+the last idea for future improvement is to make sure that I continusously research what I don't understand;
+one more idea for future improvements is to make sure I memorize GIT Commands
